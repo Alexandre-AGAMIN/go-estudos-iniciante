@@ -1,0 +1,6 @@
+08/05/2024 02:02:31https://www.alura.com.br- online: true
+08/05/2024 02:02:31https://random-status-code.herokuapp.com- online: false
+08/05/2024 02:02:32https://www.caelum.com.br- online: true
+08/05/2024 02:07:14 https://www.alura.com.br- online: true
+08/05/2024 02:07:15 https://random-status-code.herokuapp.com- online: false
+08/05/2024 02:07:16 https://www.caelum.com.br- online: true
